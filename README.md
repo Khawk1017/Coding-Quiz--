@@ -1,4 +1,4 @@
-# Coding-Quiz--Challenge-4
+# Coding-Quiz--
 This is a simple coding quiz application designed to test your programming skills.
 
 ## Features
